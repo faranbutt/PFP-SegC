@@ -1,0 +1,4 @@
+task: segmentation
+iou_type: segm
+metric: coco_ap
+one_submission_per_team: true
